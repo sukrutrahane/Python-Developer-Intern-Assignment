@@ -1,7 +1,7 @@
 # Python-Developer-Intern-Assignment
-Python program that implements specific security measures on a Windows 10 such as:
-i. Blocking USB Ports and Disabling Bluetooth.
-ii. Disabling Command Prompt.
+Python program that implements specific security measures on a Windows 10 such as:</br>
+i. Blocking USB Ports and Disabling Bluetooth.</br>
+ii. Disabling Command Prompt.</br>
 iii. Blocking Website Access (facebook.com)
 
 **Steps:**
