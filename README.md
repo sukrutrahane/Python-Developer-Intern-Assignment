@@ -4,7 +4,7 @@ i. Blocking USB Ports and Disabling Bluetooth.
 ii. Disabling Command Prompt.
 iii. Blocking Website Access (facebook.com)
 
-**Steps:
+**Steps:**
 1. Make sure you have Python installed in your PC.
 2. Save the file in your system.
 3. Open a Command Prompt in the virtual machine with administrative privileges (right-click Command Prompt and select "Run as administrator").
