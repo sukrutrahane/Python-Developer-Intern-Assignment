@@ -25,7 +25,7 @@ def main():
     disable_command_prompt()
     print("Command Prompt disabled.")
 
-    website_to_block = "example.com"
+    website_to_block = "www.facebook.com"
     block_website_access(website_to_block)
     print(f"{website_to_block} blocked.")
 
